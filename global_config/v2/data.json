@@ -4,7 +4,7 @@
     "data": {
         "global_config": [
             {
-                "build": 1760686597,
+                "build": 1760688188,
                 "app_version_range_min": "1.0.0(1)",
                 "app_version_range_max": "99.99.99",
                 "max_weekly_logo_api_count_r1": 0,
@@ -16,27 +16,10 @@
                 "launch_purchase_skip_delay_secs": 3.0,
                 "api_base_url": "https://d3uk18xr5d.execute-api.us-east-1.amazonaws.com",
                 "ss": [
-                    {
-                        "t": "p",
-                        "o": [
-                            "l1"
-                        ]
-                    },
-                    {
-                        "t": "e",
-                        "o": [
-                            "e",
-                            "g",
-                            "f"
-                        ]
-                    },
-                    {
-                        "t": "a",
-                        "o": [
-                            "b",
-                            "d"
-                        ]
-                    }
+                    {"t": "q","o": ["k1"]},
+                    {"t": "r","o": ["k1"]},
+                    {"t": "e","o": ["e","g","f","m"]},
+                    {"t": "a","o": ["b","d","m"]}
                 ]
             }
         ],
